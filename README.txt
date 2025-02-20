@@ -3,9 +3,9 @@
      -------------- how to create custom traffic for your server (new qb-core) --------------
 
 
- 1    download the resource
+ 1    download the resource 
 
- 2    extract and put into resources.
+ 2    extract and put into resources, and remove "FiveM-" and "-main" from the downloaded resources name
       (i recomend that you create a file called "[trafficaddon]" in resources and put "custom_traffic" in there.)
  
  3    open openiv "https://openiv.com/"
