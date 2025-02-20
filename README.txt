@@ -12,7 +12,7 @@
  
   4  -  go here in file directory in openiv "Grand Theft Auto V\update\update.rpf\x64\levels\gta5"
  
-  5  -  right click and export as an xml too remove the encription
+  5  -  find popgroups.ymt and right click and export as an xml too remove the encription
  
   6  -  use visual studio code "https://code.visualstudio.com/" to open the xml/txt file
  
