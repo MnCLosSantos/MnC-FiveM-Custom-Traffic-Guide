@@ -18,7 +18,8 @@
  
   7  -  change the spawn codes starting at line "6212"
  
-  8  -  save the file as "all files" not a xml or txt, Make sure to call it "popgroups.ymt". Save it in the "custom_traffic"     folder or put it in there. should now be a "ymt" file
+  8  -  save the file as "all files" not a xml or txt, Make sure to call it "popgroups.ymt". 
+        Save it in the "custom_traffic" folder or put it in there. should now be a "ymt" file
 
   9  -  delete this file "this where you want too save the ymt file.txt"
  
