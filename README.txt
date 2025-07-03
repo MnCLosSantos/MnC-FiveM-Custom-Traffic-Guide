@@ -1,6 +1,6 @@
 
 
-     -------------- how to create custom traffic for your server (new qb-core) --------------
+     -------------- how to create custom traffic for your server (new qb-core) "jan 2025" --------------
 
 
   1  -  download the resource 
